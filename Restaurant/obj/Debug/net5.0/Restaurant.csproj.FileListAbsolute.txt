@@ -1,0 +1,15 @@
+/Users/arussell/Git/Personal/Restaurant/Restaurant/bin/Debug/net5.0/Restaurant.deps.json
+/Users/arussell/Git/Personal/Restaurant/Restaurant/bin/Debug/net5.0/Restaurant.runtimeconfig.json
+/Users/arussell/Git/Personal/Restaurant/Restaurant/bin/Debug/net5.0/Restaurant.runtimeconfig.dev.json
+/Users/arussell/Git/Personal/Restaurant/Restaurant/bin/Debug/net5.0/Restaurant.dll
+/Users/arussell/Git/Personal/Restaurant/Restaurant/bin/Debug/net5.0/ref/Restaurant.dll
+/Users/arussell/Git/Personal/Restaurant/Restaurant/bin/Debug/net5.0/Restaurant.pdb
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/Restaurant.csprojAssemblyReference.cache
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/Restaurant.AssemblyInfoInputs.cache
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/Restaurant.AssemblyInfo.cs
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/Restaurant.csproj.CoreCompileInputs.cache
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/Restaurant.dll
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/ref/Restaurant.dll
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/Restaurant.pdb
+/Users/arussell/Git/Personal/Restaurant/Restaurant/obj/Debug/net5.0/Restaurant.genruntimeconfig.cache

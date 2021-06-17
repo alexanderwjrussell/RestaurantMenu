@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{5EFCB9CE-8A1F-4CC2-8778-1128D1CED7A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantTests", "RestaurantTests\RestaurantTests.csproj", "{522EEBB4-5A59-43E6-88A7-F17119117831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFCB9CE-8A1F-4CC2-8778-1128D1CED7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFCB9CE-8A1F-4CC2-8778-1128D1CED7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFCB9CE-8A1F-4CC2-8778-1128D1CED7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFCB9CE-8A1F-4CC2-8778-1128D1CED7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522EEBB4-5A59-43E6-88A7-F17119117831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522EEBB4-5A59-43E6-88A7-F17119117831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522EEBB4-5A59-43E6-88A7-F17119117831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522EEBB4-5A59-43E6-88A7-F17119117831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
