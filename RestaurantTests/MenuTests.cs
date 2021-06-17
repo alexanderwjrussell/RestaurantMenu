@@ -10,7 +10,7 @@ namespace RestaurantTests
 MENU
 
 Starters
-dumplings, shrimp or scollops
+dumplings, shrimp or scallops
 
 Mains
 beef, turkey or lobster

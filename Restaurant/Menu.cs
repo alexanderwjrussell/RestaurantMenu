@@ -7,13 +7,13 @@ namespace Restaurant
     {
         private readonly Dictionary<string, string[]> _foodCategories = new()
         {
-            {"starters", new []{"dumplings", "shrimp", "scollops", "leg", "monkey"}},
+            {"starters", new []{"dumplings", "shrimp", "scallops", "leg", "monkey"}},
             {"mains", new []{"beef", "turkey", "lobster", "leg", "monkey"}},
             {"desserts", new []{"trifle", "ice cream", "fire", "leg", "monkey"}} };
 
         private readonly List<string> _chefDishes = new(new[] 
         {
-            "dumplings", "shrimp", "scollops", "beef", "turkey",
+            "dumplings", "shrimp", "scallops", "beef", "turkey",
             "lobster", "trifle", "ice cream", "fire"
         });
 
